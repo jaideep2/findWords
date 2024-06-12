@@ -1,0 +1,17 @@
+{
+    "name": "find-words",
+    "version": "1.0.0",
+    "description": "A function to find words from a dictionary that can be formed by rearranging some or all of the letters in an input string.",
+    "main": "findWords.js",
+    "scripts": {
+      "build": "tsc",
+      "test": "node findWords.test.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^4.3.5"
+    }
+  }
+  
